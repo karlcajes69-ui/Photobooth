@@ -1,0 +1,6 @@
+{
+  "name": "Studio Booth",
+  "description": "A photo booth kiosk for event guests to capture real camera photos, customize print layouts, and print via AirPrint.",
+  "requestFramePermissions": ["camera"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
